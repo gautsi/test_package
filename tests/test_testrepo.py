@@ -19,7 +19,7 @@ class TestTestrepo(unittest.TestCase):
         pass
 
     def test_something(self):
-        pass
+        assert testrepo.test_func() == "hello"
 
     def tearDown(self):
         pass

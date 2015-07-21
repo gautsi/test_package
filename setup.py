@@ -27,7 +27,7 @@ setup(
     version='0.1.0',
     description="A test repo for figuring out cookiecutter, tox, travis ci and other things",
     long_description=readme + '\n\n' + history,
-    author=""Gautam Sisodia"",
+    author="Gautam Sisodia",
     author_email='gautam.sisodia@gmail.com',
     url='https://github.com/gautsi/testrepo',
     packages=[
