@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    readme
+   testrepo
    installation
    usage
    contributing
