@@ -9,7 +9,7 @@ Test package
         :target: https://pypi.python.org/pypi/testrepo
 
 
-A test repo for figuring out cookiecutter, tox, travis ci and other things
+A test repo for figuring out cookiecutter, tox, travis ci and other things TESTING ONE TWO THREE
 
 * Free software: BSD license
 * Documentation: https://testrepo.readthedocs.org.
